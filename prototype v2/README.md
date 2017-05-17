@@ -1,4 +1,4 @@
-![prototypeV2](Old_demo.gif)
+![prototypeV2](Demo.gif)
 
 Download links :
 
