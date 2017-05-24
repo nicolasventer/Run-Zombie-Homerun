@@ -11,4 +11,4 @@ The game is developped with Unity2D.
 
 --
 
-This git contains some descriptive documents of the smartphone version and an old Windows version.
+This git contains some descriptive documents and a Windows version.
