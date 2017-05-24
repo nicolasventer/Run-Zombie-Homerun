@@ -5,6 +5,10 @@ It is a smartphone game.
 
 The game is developped with Unity2D.
 
+Link : https://play.google.com/apps/testing/com.VenterN.RZH
+
+![trailer](Trailer.gif)
+
 --
 
-This git contains the last version of my game with a descriptive document. It also contains the trailers of the game.
+This git contains some descriptive documents of the smartphone version and an old Windows version.

@@ -1,0 +1,21 @@
+ranks : turtle 0, rabbit 20 000, jogger 50 000, heroe 100 000, warrior 200 000, ninja 400 000, bolt 800 000
+
+descriptionMission -> nameMission (level 1/level 2/level 3)
+// I will maybe add a level 4/5
+
+MISSIONS :
+/// in one game from level 3
+regenerate X life points -> Immortal (50/200/150)
+earn X life points -> Tank (50/150/100)
+hit X zombies -> Serial Killer (10/50/25)
+catch X bonuses -> Greedy (5/20/10)
+hit X zombie kids -> Serial Kid Killer (2/10/5)
+touch X zombies (after deathzone) -> Masochist (10/50/20)
+just avoiding X zombies -> Challenger (10/50/25)
+
+/// always in one game
+reach X km/h -> Sonic (25/30/40)
+be more to distance X from deathzone -> Racer (100m/200m/400m)
+hit X zombies in 10s -> Berserk (5/10/15)
+reach score X without hitting zombie -> Peace and lover (10000/50000/150000)
+reach score X without catching bonus -> Vainglorious (10000/50000/150000)
