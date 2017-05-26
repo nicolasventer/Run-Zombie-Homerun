@@ -5,11 +5,7 @@ It is a smartphone game.
 
 The game is developped with Unity2D.
 
-<<<<<<< HEAD
-Link : https://play.google.com/store/apps/details?id=com.VenterN.RZH&hl=fr
-=======
-[Google Play Link](https://play.google.com/apps/testing/com.VenterN.RZH)
->>>>>>> 58cf27b74fe337650cb904d29950d186ef85be82
+[Google Play Link](https://play.google.com/store/apps/details?id=com.VenterN.RZH&hl=fr)
 
 ![trailer](Trailer.gif)
 
