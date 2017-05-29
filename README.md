@@ -8,7 +8,3 @@ The game is developped with Unity2D.
 [Google Play Link](https://play.google.com/store/apps/details?id=com.VenterN.RZH&hl=fr)
 
 ![trailer](Trailer.gif)
-
---
-
-This git contains some descriptive documents and a Windows version.
